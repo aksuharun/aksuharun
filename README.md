@@ -1,2 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/{aksuharun}/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/aksuharun/count.svg)
